@@ -1,0 +1,5 @@
+.content {
+    grid-area: content;
+    position: relative;
+    border: 4px solid black;
+}

@@ -1,0 +1,4 @@
+.sidebar {
+    grid-area: nav;
+    border: 4px solid black;
+}

@@ -1,0 +1,10 @@
+.main {
+    grid-area: main;
+    border: 4px solid black;
+
+    display: grid;
+
+    grid-template-areas: "content interactive";
+    grid-template-rows: 1fr;
+    grid-template-columns: 7fr 3fr;
+}

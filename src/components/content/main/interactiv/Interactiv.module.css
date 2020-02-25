@@ -1,0 +1,5 @@
+.interactive {
+    position: relative;
+    grid-area: interactive;
+    border: 4px solid black;
+}
